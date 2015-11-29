@@ -10,5 +10,5 @@
 3. `rm -rf CHANGELOG.md`
 4. `jekyll serve`
 
-## Demo
-To see a working demo of the Butane Jekll Theme visit [alexcarpenter.me](http://alexcarpenter.me).
+## Sites using Butane Jekyll Theme
+- [alexcarpenter.me](http://alexcarpenter.me).
