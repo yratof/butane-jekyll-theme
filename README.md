@@ -1,5 +1,9 @@
 # butane-jekyll-theme
 
+## Preview
+
+[Imgur](http://i.imgur.com/a3K0y7N.jpg)
+
 ## Dependancies
 - Ruby 2.2
 - Jekyll 3.0
