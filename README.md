@@ -8,7 +8,7 @@ Highly inspired by the [Framer blog](http://blog.framerjs.com/).
 
 ![Butane Jekyll Theme Preview](http://i.imgur.com/a3K0y7N.jpg)
 
-## Dependancies
+## System requirements
 - Ruby 2.2
 - Jekyll 3.0
 
