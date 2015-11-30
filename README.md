@@ -1,6 +1,6 @@
 # butane-jekyll-theme
 
-Butane Jekyll Theme made for Github Pages. Works great for you personal blog.
+Butane Jekyll Theme made for Github Pages. Works great for your personal blog.
 
 Highly inspired by the [Framer blog](http://blog.framerjs.com/).
 
